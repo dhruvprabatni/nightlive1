@@ -214,7 +214,7 @@ ul a {
 }
 
 .container {
-    background-image: url(./img/edward-unsplash-blur.jpg);
+    background-image: url(edward-unsplash-blur.jpg);
     height: 30vw;
     width: 100%;
     background-repeat: no-repeat;
@@ -233,7 +233,7 @@ ul a {
 }
 
 .contain-img {
-    background-image: url(./img/123.jpg);
+    background-image: url(123.jpg);
     height: 25vw;
     width: 40vw;
     background-repeat: no-repeat;
@@ -314,7 +314,7 @@ ul a {
 }
 
 .artist-img {
-    background-image: url(./img/joecalih-UmTZqmMvQcw-unsplash.jpg);
+    background-image: url(joecalih-UmTZqmMvQcw-unsplash.jpg);
     height: 50vw;
     width: 30vw;
     background-size: cover;
@@ -323,7 +323,7 @@ ul a {
 }
 
 .img-artist {
-    background-image: url(./img/abstral-official-bdlMO9z5yco-unsplash.jpg);
+    background-image: url(abstral-official-bdlMO9z5yco-unsplash.jpg);
     height: 24vw;
     width: 30vw;
     background-size: cover;
@@ -336,11 +336,11 @@ ul a {
     width: 30vw;
     background-size: cover;
     border-radius: 20px;
-    background-image: url(./img/soundtrap-rAT6FJ6wltE-unsplash.jpg);
+    background-image: url(soundtrap-rAT6FJ6wltE-unsplash.jpg);
 }
 
 .schedule {
-    background-image: url(./img/nainoa-shizuru-unsplash-blur.jpg);
+    background-image: url(nainoa-shizuru-unsplash-blur.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -386,7 +386,7 @@ table {
 }
 
 .bg-img-table {
-    background-image: url(./img/joecalih-UmTZqmMvQcw-unsplash.jpg);
+    background-image: url(joecalih-UmTZqmMvQcw-unsplash.jpg);
     height: 10vw;
     width: 25vw;
     background-repeat: no-repeat;
@@ -396,7 +396,7 @@ table {
 }
 
 .bg-img1-table {
-    background-image: url(./img/abstral-official-bdlMO9z5yco-unsplash.jpg);
+    background-image: url(abstral-official-bdlMO9z5yco-unsplash.jpg);
     height: 10vw;
     width: 25vw;
     background-repeat: no-repeat;
@@ -413,7 +413,7 @@ table {
 }
 
 .bg-img2-table {
-    background-image: url(./img/soundtrap-rAT6FJ6wltE-unsplash.jpg);
+    background-image: url(soundtrap-rAT6FJ6wltE-unsplash.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
